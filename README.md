@@ -6,6 +6,7 @@ A collection of Python problem-solving exercises, algorithms, and coding challen
 
 ### Question 1: 
 QUESTION 1/Question1.md
+QUESTION 1/solution1.py
+### Question 2:
 
-### Question 2: 
 
